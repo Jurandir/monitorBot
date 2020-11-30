@@ -1,0 +1,19 @@
+{
+  "name": "monitorbot",
+  "version": "1.0.0",
+  "description": "Monitorar robôs de tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jurandir/monitorBot.git"
+  },
+  "author": "Jurandir Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jurandir/monitorBot/issues"
+  },
+  "homepage": "https://github.com/Jurandir/monitorBot#readme"
+}
